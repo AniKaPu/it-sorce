@@ -1,0 +1,16 @@
+@import 'bootstrap/bootstrap.min';
+// Resetowanie & zmienne & mixiny
+@import '1-vars';
+@import '2-mixins';
+@import '3-minireset';
+
+// Komponenty
+@import 'header';
+@import 'button';
+@import 'global';
+@import 'numbers';
+@import 'hero';
+@import 'text';
+@import 'content';
+
+

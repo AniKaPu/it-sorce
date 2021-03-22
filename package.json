@@ -1,0 +1,29 @@
+{
+  "name": "anika-gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "@fancyapps/fancybox": "3.5.2",
+    "aos": "^2.3.4",
+    "bootstrap": "^4.3.1",
+    "glob": "^7.1.6",
+    "gulp": "^4.0.2",
+    "jarallax": "^1.12.1",
+    "jquery": "3.4.1",
+    "popper.js": "1.15.0",
+    "simplebar": "^3.1.3",
+    "swiper": "^5.3.8"
+  }
+}

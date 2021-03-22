@@ -1,0 +1,21 @@
+.header {
+  @include container;
+  &__logo{
+    width:100px;
+  }
+}
+
+.nav-link{
+  color:$text;
+}
+.navWrapper{
+   max-width:1140px;
+    padding:$s;
+    
+    margin-left: auto;
+    margin-right:auto;
+    @include lg-up{
+      padding: $l $l 0 $l;
+   
+    }
+}
